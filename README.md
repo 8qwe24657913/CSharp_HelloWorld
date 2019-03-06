@@ -3,7 +3,7 @@ C# 课程作业2
 
 ### 1. 创建新的类，实例化 HelloWorld
 
-![](.\Images\instance.png)
+![](https://raw.githubusercontent.com/8qwe24657913/CSharp_HelloWorld/master/Images/instance.png)
 
 可通过启动参数指定要问候的人，人名颜色随机
 
@@ -11,7 +11,7 @@ C# 课程作业2
 
 ### 2. 创建新的类，静态方法，无需实例化的 HelloWorld
 
-![](.\Images\static.gif)
+![](https://raw.githubusercontent.com/8qwe24657913/CSharp_HelloWorld/master/Images/static.gif)
 
 手动动画（不
 
@@ -19,7 +19,7 @@ C# 课程作业2
 
 ### 3. WPF 的 HelloWorld
 
-![](.\Images\WPF.png)
+![](https://raw.githubusercontent.com/8qwe24657913/CSharp_HelloWorld/master/Images/WPF.png)
 
 用 `ListView` 显示命令行参数的程序
 
@@ -27,10 +27,10 @@ C# 课程作业2
 
 ### 4. WindowsForm 中创建新类的 HelloWorld
 
-![](.\Images\winform.png)
+![](https://raw.githubusercontent.com/8qwe24657913/CSharp_HelloWorld/master/Images/winform.png)
 
 同上，但使用 WindowsForm 创建新类完成
 
 ### 5. Xamarin Android HelloWorld
 
-![](.\Images\xamarin.png)
+![](https://raw.githubusercontent.com/8qwe24657913/CSharp_HelloWorld/master/Images/xamarin.png)
